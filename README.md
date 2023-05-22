@@ -1,1 +1,1 @@
-# Object_detection_using_ResNet50
+# ImageClassification_using_ResNet50
